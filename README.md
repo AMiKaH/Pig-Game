@@ -1,5 +1,5 @@
 # Pig-Game
-A rolling-dice game. Part of a course project on Udemy.com
+A rolling-dice game. Part of a course project on Udemy, with some enhancements
 
 Players can roll a die as many times as they want, the score is added up and then can hold the score.
 If a player rolls a 1 then their score that was not held will be lost and the turn goes to the other player.
